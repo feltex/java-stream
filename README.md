@@ -9,8 +9,7 @@
 
  - distinct
  - filter
- - limit
- - map 
+  - map 
  - peek
  - sorted
  - skip
